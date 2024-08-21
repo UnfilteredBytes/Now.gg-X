@@ -2,21 +2,21 @@ const express = require('express');
 const { createProxyMiddleware } = require('http-proxy-middleware');
 
 const app = express();
+
 const nggUrl = 'https://mathsspot.com';
 
 const proxy = createProxyMiddleware({
-  target: nggurl,
+  target: nggUrl,
   changeOrigin: true,
   secure: true,
-  logLevel: 'info', // Adjust the log level as needed
-});
-
-// Remove unnecessary headers
-proxy.on('proxyReq', (proxyReq, req) => {
-  if (req.headers.host === 'mathsspot.com') {
-    proxyReq.removeHeader('X-Forwarded-For');
-    proxyReq.removeHeader('X-Real-IP');
-    proxyReq.removeHeader('Via');
+  logLevel: 'debug',
+  router: function(req) {
+    if (req.headers.host === 'mathsspot.com') {
+      req.headers['X-Forwarded-For'] = ''; 
+      req.headers['X-Real-IP'] = '';
+      req.headers['Via'] = '';
+    }
+    return nggUrl;
   }
 });
 
