@@ -5,6 +5,6 @@ So what I decided to do was make another "forked repo" by copying and pasting th
 Credits to CybriaTech, cause without them this wouldn't exist, and the only good now.gg repo woulldn't be here.
 
 
-In shorter terms, I forked CybriaGG's repo and they archived their own repo, so I practically made a newer version of my repo (credits to CybriaGG again,) and you can see it as a combination of CybriaGG and my own stuff.
+In shorter terms, I forked CybriaGG's repo and they archived their own repo, so I practically made a newer version of my repo (credits to CybriaGG again,) and you can see it as a combination of CybriaGG and my own stuff. !!ONCE AGAIN THIS IS NOT A COPY, ALL CREDITS GO TO CYBRIATECH AND THEIR TEAM!!
 
 -P1xel10
