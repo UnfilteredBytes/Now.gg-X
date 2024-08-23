@@ -6,7 +6,7 @@ const app = express();
 const nggUrl = 'https://mathsspot.com';
 
 const proxy = createProxyMiddleware({
-  target: 'https://mathsspot.com:8080,
+  target: nggUrl,
   changeOrigin: true,
   secure: true,
   logLevel: 'debug',
@@ -16,7 +16,7 @@ const proxy = createProxyMiddleware({
       req.headers['X-Real-IP'] = '';
       req.headers['Via'] = '';
     }
-    return 'https://mathsspot.com:8080;
+    return nggUrl;
   }
 });
 
@@ -24,5 +24,5 @@ app.use('/', proxy);
 
 const port = process.env.PORT || 443;
 app.listen(port, () => {
-  console.log(`NowggX is running on port ${port}`);
+  console.log(`CybriaGG is running on port ${port}`);
 });
