@@ -4,8 +4,8 @@
     "http-proxy-middleware": "^2.0.6",
     "http-proxy": "^1.18.1"
   },
-  "name": "cybriagg",
-  "description": "CybriaGG is an unblocked site for users to access & play Roblox freely on Now.GG",
+  "name": "NOWGG-X",
+  "description": "NOWGG-X is the most recent Now.gg repo that is well known for being the combination of CybriaGG and our additional content!",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,6 @@
     "roblox",
     "nowgg"
   ],
-  "author": "CybriaTech",
+  "author": "CybriaTechxP1xel10xPxl12",
   "license": "ISC"
 }
