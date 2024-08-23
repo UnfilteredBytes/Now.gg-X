@@ -1,7 +1,6 @@
+#!!THIS IS NOT A COPY. ALL CREDITS GO TO CYBRIATECH AND THEIR TEAM!!#
 
 Read everything if you don't have low attention span.
-
-**!!THIS IS NOT A COPY. ALL CREDITS GO TO CYBRIATECH AND THEIR TEAM!!**
 
 CybriaGG was the first to make a good Now.gg repo that wouldn't be detected via proxy, so I forked it and used it like a lot of other people.
 At some point I realized that the creator of that repo archived it, and the repo wasn't working as usual.
