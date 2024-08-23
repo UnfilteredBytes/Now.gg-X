@@ -14,9 +14,12 @@ In shorter terms, I forked CybriaGG's repo and they archived their own repo, so 
 
 If it says "Unsafe Proxy or VPN detected" still, refresh it, that's on us. Sorry.
 
+Apps I know that can deploy this repo: Render. (If you have any more please tell us on Discussions!)
+
 **!!ONCE AGAIN THIS IS NOT A COPY, ALL CREDITS GO TO CYBRIATECH AND THEIR TEAM!!**
 
 -P1xel10 & Pxl12
+
 
 
 # Supported Versions
