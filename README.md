@@ -15,3 +15,14 @@ In shorter terms, I forked CybriaGG's repo and they archived their own repo, so 
 **!!ONCE AGAIN THIS IS NOT A COPY, ALL CREDITS GO TO CYBRIATECH AND THEIR TEAM!!**
 
 -P1xel10 & Pxl12
+
+
+# Supported Versions
+
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
+| < 4.0   | :x:                |
