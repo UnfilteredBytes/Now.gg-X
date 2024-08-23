@@ -12,6 +12,8 @@ Also, this is NEW, expect bugs and issues because we are relatively new to this 
 
 In shorter terms, I forked CybriaGG's repo and they archived their own repo, so I practically made a newer version of my repo (credits to CybriaGG again,) and you can see it as a combination of CybriaGG and my own stuff. 
 
+If it says "Unsafe Proxy or VPN detected" still, refresh it, that's on us. Sorry.
+
 **!!ONCE AGAIN THIS IS NOT A COPY, ALL CREDITS GO TO CYBRIATECH AND THEIR TEAM!!**
 
 -P1xel10 & Pxl12
