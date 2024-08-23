@@ -6,7 +6,7 @@ const app = express();
 const nggUrl = 'https://mathsspot.com';
 
 const proxy = createProxyMiddleware({
-  target: nggUrl,
+  target: 'https://mathsspot.com:8080,
   changeOrigin: true,
   secure: true,
   logLevel: 'debug',
