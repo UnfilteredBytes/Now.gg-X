@@ -1,4 +1,4 @@
-#!!THIS IS NOT A COPY. ALL CREDITS GO TO CYBRIATECH AND THEIR TEAM!!#
+# !!THIS IS NOT A COPY. ALL CREDITS GO TO CYBRIATECH AND THEIR TEAM!! #
 
 Read everything if you don't have low attention span.
 
