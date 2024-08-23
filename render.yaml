@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: nowgg
+    name: Nowgg X
     env: node
     buildCommand: npm install
     startCommand: npm start
