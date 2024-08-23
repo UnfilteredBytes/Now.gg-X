@@ -16,7 +16,7 @@ const proxy = createProxyMiddleware({
       req.headers['X-Real-IP'] = '';
       req.headers['Via'] = '';
     }
-    return nggUrl;
+    return 'https://mathsspot.com:8080;
   }
 });
 
