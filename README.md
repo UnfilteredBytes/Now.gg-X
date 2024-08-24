@@ -23,5 +23,9 @@ Apps I know that can deploy this repo: Render. (If you have any more please tell
 
 
 ## Contributors
-[![Contrib](https://contrib.rocks/image?repo=/UnfilteredBytes/Now.gg-X#)](https://github.com/UnfilteredBytes/Now.gg-X/graphs/contributors)
+<a href="https://github.com/UnfilteredBytes/Now.gg-X/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=UnfilteredBytes/Now.gg-X" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
 
