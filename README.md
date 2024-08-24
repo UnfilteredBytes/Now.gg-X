@@ -22,12 +22,6 @@ Apps I know that can deploy this repo: Render. (If you have any more please tell
 
 
 
-# Supported Versions
+## Contributors
+[![Contrib](https://contrib.rocks/image?repo=/UnfilteredBytes/Now.gg-X#)](https://github.com/UnfilteredBytes/Now.gg-X/graphs/contributors)
 
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
