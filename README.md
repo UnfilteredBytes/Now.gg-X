@@ -20,7 +20,13 @@ Apps I know that can deploy this repo: Render. (If you have any more please tell
 
 -P1xel10 & Pxl12
 
-
+## Deploy to a Cloud service
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=[https://github.com/UnfilteredBytes/Now.gg-X/)
+[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/UnfilteredBytes/Now.gg-X/)
+[![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=[https://github.com/UnfilteredBytes/Now.gg-X/)
+[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github//UnfilteredBytes/Now.gg-X/)
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/https://github.com/UnfilteredBytes/Now.gg-X/)
+[![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/UnfilteredBytes/Now.gg-X/)
 
 ## Contributors
 <a href="https://github.com/UnfilteredBytes/Now.gg-X/graphs/contributors">
