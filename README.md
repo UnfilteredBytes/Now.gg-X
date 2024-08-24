@@ -27,5 +27,5 @@ Apps I know that can deploy this repo: Render. (If you have any more please tell
   <img src="https://contrib.rocks/image?repo=UnfilteredBytes/Now.gg-X" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+# Made with [contrib.rocks](https://contrib.rocks).
 
